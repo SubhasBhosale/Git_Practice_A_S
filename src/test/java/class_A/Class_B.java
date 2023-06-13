@@ -6,6 +6,8 @@ public class Class_B {
 		System.out.println("class B");
 		
 		System.out.println("hello.....!!!!");
+		
+		System.out.println("how ar you");
 	}
 
 }
