@@ -6,7 +6,9 @@ public class class_A {
 
 		System.out.println("Amruth");
 
+		
 		System.out.println("class A");
+
 
 	}
 
